@@ -1,5 +1,27 @@
 .card-img-top
 {
     height: 200px;
-    width: 100%;
+    width: 200px;
+    margin-left: 20px;
+}
+h4
+{
+  margin-left: 20px;
+}
+p
+{
+	margin-left: 20px;
+}
+a
+{
+	margin-left: 20px;
+}
+.card
+{
+	width: 100%;
+	background-color:#fff;
+	padding: 10px;
+	margin: 0 auto;
+	border-radius:4px;
+	box-shadow: 2px 2px 2px 2px;
 }
